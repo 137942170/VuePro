@@ -21,9 +21,13 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ├── App.vue                         // APP入口文件
+
 ├── api                             // 接口调用工具文件夹
+
 │   └── index.js                    // 接口调用工具
+
 ├── components                      // 组件文件夹，目前为空
+
 ├── config                          // 项目配置文件夹
 │   └── index.js                    // 项目配置文件
 ├── frame                           // 子路由文件夹
